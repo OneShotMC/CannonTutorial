@@ -4,6 +4,8 @@ By OneShotMC
 ## Contributors 
 - Andrew Gazelka — [GitHub](https://github.com/andrewgazelka)
 
+## Forewarning
+This tutorial is a work in progress. Although it aims to describe low level properties of TNT, it is currently far from complete. Additionally, the [emergent properties](https://en.wikipedia.org/wiki/Emergence) of TNT introduce many elements for cannoning which can not be seen from a low-level overview of TNT. Thus, do not expect to be well-versed with all applications of TNT but rather expect to be knowledgeable of the inner workings of TNT.
 ## The basics of TNT
 When Primed TNT is spawned from a dispenser, from redstone, or from flint and steel, it will become an entity which will explode 80 **gameticks** later.
 
